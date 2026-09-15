@@ -19,7 +19,7 @@ OIM3641_classwork/
 - Classwork
     - 01-Classwork/
     - 02-Classwork-Python.ipynb 
-- ...
+- Other files...
 ```
 Each assignment or class session gets its own file or folder, numbered in the order it was assigned.
 
